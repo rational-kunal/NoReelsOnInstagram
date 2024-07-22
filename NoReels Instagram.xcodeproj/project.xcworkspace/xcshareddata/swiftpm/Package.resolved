@@ -1,0 +1,24 @@
+{
+  "originHash" : "674c43fc8a17eacbf9e8a6b7f067d23ea3fbbae1d3f1cedce6ef9ddf92f35a7a",
+  "pins" : [
+    {
+      "identity" : "flex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FLEXTool/FLEX.git",
+      "state" : {
+        "revision" : "e0acf59d06d498041f65bbea1e5914b6e4b39733",
+        "version" : "5.22.10"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "be0bcd7823ce56629948491f2eaeaa19979514f7",
+        "version" : "5.19.4"
+      }
+    }
+  ],
+  "version" : 3
+}
